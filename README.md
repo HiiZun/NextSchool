@@ -11,7 +11,7 @@
     <img alt="License: ISC" src="https://img.shields.io/github/license/HiiZun/" />
   </a>
   <a href="https://twitter.com/HiiizunFrrr" target="_blank">
-    <img alt="Twitter: HiiizunFrrr" src="https://img.shields.io/twitter/follow/HiiizunFrrr.svg?style=social" />
+    <img alt="Twitter: HiiZunFr" src="https://img.shields.io/twitter/follow/HiiZunfr.svg?style=social" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ npm run test
 👤 **HiiZun**
 
 * Website: http://HiiZun.tk
-* Twitter: [@HiiizunFrrr](https://twitter.com/HiiizunFrrr)
+* Twitter: [@HiiizunFrrr](https://twitter.com/HiiZunfr)
 * Github: [@HiiZun](https://github.com/HiiZun)
 
 ## 🤝 Contributing
